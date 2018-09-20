@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ShooterGamePracticeGame",
+"dataUrl": "OpenGL Version.data.unityweb",
+"asmCodeUrl": "OpenGL Version.asm.code.unityweb",
+"asmMemoryUrl": "OpenGL Version.asm.memory.unityweb",
+"asmFrameworkUrl": "OpenGL Version.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
